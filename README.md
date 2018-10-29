@@ -1,2 +1,2 @@
 # VOLTmotors
-Proyecto desarrollado por Emiliano Maza para VOLT motors
+Proyecto desarrollado para VOLT motors
